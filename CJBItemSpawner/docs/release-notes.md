@@ -1,6 +1,34 @@
 ﻿[← back to readme](README.md)
 
 # Release notes
+## 2.2.5
+Released 01 July 2023 for SMAPI 3.14.0 or later.
+
+* Fixed error loading data on Android after the Stardew Valley 1.5.6 + SMAPI updates.
+
+## 2.2.4
+Released 25 June 2023 for SMAPI 3.14.0 or later.
+
+* Embedded `.pdb` data into the DLL, which fixes error line numbers in Linux/macOS logs.
+
+## 2.2.3
+Released 30 March 2023 for SMAPI 3.14.0 or later.
+
+* Improved translations. Thanks to BruceWu03 (updated Chinese) and MagoSupremo123 (updated Portuguese)!
+
+## 2.2.2
+Released 09 January 2023 for SMAPI 3.14.0 or later.
+
+* Improved translations. Thanks to wally232 (updated Korean)!
+
+## 2.2.1
+Released 10 October 2022 for SMAPI 3.14.0 or later.
+
+* Added log messages to simplify troubleshooting when the menu doesn't open.
+* Fixed option to not apply trash can upgrades not affecting items trashed with the `delete` key.
+* Fixed search box too small in some languages.
+* Improved translations. Thanks to ChulkyBow (updated Ukrainian)!
+
 ## 2.2.0
 Released 18 August 2022 for SMAPI 3.14.0 or later.
 

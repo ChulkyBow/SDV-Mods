@@ -1,6 +1,30 @@
 ﻿[← back to readme](README.md)
 
 # Release notes
+## 1.33.1
+Released 25 June 2023 for SMAPI 3.14.0 or later.
+
+* Embedded `.pdb` data into the DLL, which fixes error line numbers in Linux/macOS logs.
+
+## 1.33.0
+Released 30 March 2023 for SMAPI 3.14.0 or later.
+
+* Added option for 'can read Junimo text' in advanced section.
+* Adjusted grow-crops cheat for compatibility with some crop mods (thanks to atravita!).
+* Improved translations. Thanks to BruceWu03 (updated Chinese)!
+
+## 1.32.2
+Released 09 January 2023 for SMAPI 3.14.0 or later.
+
+* Improved translations. Thanks to ellipszist (updated Thai), Mysti57155 (updated French), and wally232 (updated Korean)!
+
+## 1.32.1
+Released 10 October 2022 for SMAPI 3.14.0 or later.
+
+* Added log messages to simplify troubleshooting when the menu doesn't open.
+* Fixed 'no friendship decay' sometimes not applied to the overnight friendship decay when you quit after saving.
+* Improved translations. Thanks to ellipszist (updated Thai)!
+
 ## 1.32.0
 Released 18 August 2022 for SMAPI 3.14.0 or later.
 
